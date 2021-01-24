@@ -1,4 +1,4 @@
-# DataVisualisations
+# Data Visualisations Coursework
 
 ## 1. Overview - Tasks
 * For the assignment we had to analyze a given dataset that has been cleaned and is ready to be investigated so we could gather more information from it. 
