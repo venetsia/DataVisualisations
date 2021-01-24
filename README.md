@@ -21,6 +21,7 @@ For the visualisations ggplot2 was used together with library(scales) which is T
 * ![alt text](https://github.com/venetsia/DataVisualisations/blob/main/Capture1.PNG)
 * ![alt text](https://github.com/venetsia/DataVisualisations/blob/main/Capture2.PNG)
 * ![alt text](https://github.com/venetsia/DataVisualisations/blob/main/Capture3.PNG) 
+
 *For last visualisation it was partly drawn on paper and finished in Photoshop*
 
 
